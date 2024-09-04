@@ -1,3 +1,11 @@
-document.querySelector('.btn-primary').addEventListener('click', function() {
-    alert('Benvenuti nel Mio Sito!');
+// Smooth scroll per ancore interne
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+
+        document.querySelector(this.getAttribute('href')).scrollIntoView({
+            behavior: 'smooth'
+        });
+    });
 });
+
