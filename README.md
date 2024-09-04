@@ -1,21 +1,22 @@
 ![image](https://github.com/user-attachments/assets/aaeb0acd-7a9a-4f11-be93-7bf73e74ef6f)
 # themes
 
-Benvenuti nei temi GJD! Siamo entusiasti di darvi il benvenuto in un mondo dove la bellezza del design web incontra la funzionalità. Questo è il luogo ideale per chi desidera arricchire il proprio sito web con elementi di qualità superiore, file CSS avanzati e stili unici che trasformeranno il vostro progetto digitale in un capolavoro. Che siate professionisti del web design o principianti desiderosi di imparare, qui troverete una vasta gamma di risorse pensate per elevare l'estetica e l'usabilità del vostro sito. Con i temi GJD, potrete creare pagine web non solo funzionali, ma anche estremamente eleganti e accattivanti, capaci di lasciare un'impressione duratura sui visitatori. Ogni dettaglio è stato curato con attenzione per offrirvi strumenti che non solo migliorano l'aspetto visivo, ma ottimizzano anche le performance e l'accessibilità del vostro sito. Unitevi a noi per esplorare infinite possibilità di design e scoprite come rendere il vostro spazio online davvero unico e inimitabile!
+Welcome to GJD Themes! We are excited to welcome you to a world where the beauty of web design meets functionality. This is the ideal place for those who want to enrich their website with superior quality elements, advanced CSS files and unique styles that will transform your digital project into a masterpiece. Whether you're a web design professional or a beginner eager to learn, here you'll find a wide range of resources designed to elevate the aesthetics and usability of your site. With GJD themes, you can create web pages that are not only functional, but also extremely elegant and eye-catching, capable of leaving a lasting impression on visitors. Every detail has been carefully considered to offer you tools that not only improve the visual appearance, but also optimize the performance and accessibility of your site. Join us to explore endless design possibilities and discover how to make your online space truly unique and inimitable!
 
-## Come usare?
+## How to use?
 
-Attualmente, sono disponibili sei diversi temi tra cui scegliere, ognuno con uno stile unico per personalizzare l'aspetto del vostro progetto. I temi disponibili sono i seguenti:
+Currently, there are six different themes to choose from, each with a unique style to customize the look of your project. The available themes are as follows:
 
-1. Dark Theme: Un tema scuro che offre un aspetto moderno e minimalista, perfetto per chi preferisce un'interfaccia più sobria e con un minore affaticamento visivo.
-2. Origin Theme: Il tema originario, con un design bilanciato e versatile, ideale per chi desidera mantenere un aspetto classico e familiare.
-3. Dark Blue: Un tema che combina tonalità scure con sfumature di blu, offrendo un aspetto elegante e professionale.
-4. Blue: Questo tema si basa su diverse tonalità di blu, creando un'atmosfera fresca e dinamica, perfetta per un look più vivace.
-5. White Style: Un tema chiaro e pulito, caratterizzato da un design luminoso e arioso, ideale per chi predilige un'interfaccia semplice e brillante.
-6. Grey Styles: Un tema che utilizza diverse sfumature di grigio per un aspetto neutro e sofisticato, adatto a chi cerca un design discreto ed elegante.
+1. Dark Theme: A dark theme that offers a modern and minimalist look, perfect for those who prefer a more sober interface with less visual fatigue.
+2. Origin Theme: The origin theme, with a balanced and versatile design, ideal for those who want to maintain a classic and familiar look.
+3. Dark Blue: A theme that combines dark tones with shades of blue, offering a sleek and professional look.
+4. Blue: This theme is based on different shades of blue, creating a fresh and dynamic atmosphere, perfect for a more lively look.
+5. White Style: A light and clean theme, characterized by a bright and airy design, ideal for those who prefer a simple and bright interface.
+6. Gray Styles: A theme that uses different shades of gray for a neutral and sophisticated look, suitable for those looking for a discreet and elegant design.
 
-Per applicare uno di questi temi, è necessario accedere alle impostazioni dello stile del progetto. Successivamente, sostituite il codice di riferimento codice.css/js con il numero corrispondente al tema desiderato. Ad esempio, inserire "1" per applicare il
-Dark Theme, "2" per l'Origin Theme, "3" per Dark Blue, e così via. Questo semplice passaggio vi permetterà di personalizzare l'aspetto del vostro progetto in modo rapido ed efficace.
+To apply one of these themes, you need to go to your project's style settings. Subsequently, replace the reference code codice.css/js with the number corresponding to the desired theme. For example, enter "1" to apply the
+Dark Theme, "2" for the Origin Theme, "3" for Dark Blue, and so on. This simple step will allow you to customize the look of your project quickly and effectively.
+
 ```
 <!doctype html>
 <html lang="en">
