@@ -1,13 +1,59 @@
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: #212529;
 }
 
-.jumbotron {
+.navbar-brand img {
+    margin-right: 10px;
+}
+
+.hero-section {
+    position: relative;
+    color: #fff;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/hero-background.jpg') center center no-repeat;
+    background-size: cover;
+}
+
+.hero-section .container {
+    position: relative;
+    z-index: 2;
+}
+
+.features {
     background-color: #f8f9fa;
-    color: #343a40;
+}
+
+.features h3 {
+    color: #007bff;
+}
+
+.pricing {
+    background-color: #e9ecef;
+}
+
+.pricing .card {
+    border: none;
+    border-radius: 0.5rem;
+}
+
+.pricing .card-header {
+    font-size: 1.25rem;
+    font-weight: bold;
 }
 
 footer {
-    background-color: #f8f9fa;
-    color: #343a40;
+    background-color: #343a40;
+}
+
+footer p {
+    margin: 0;
+}
+
+footer a {
+    color: #adb5bd;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
 }
